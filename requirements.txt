@@ -1,0 +1,6 @@
+torch>=2.3
+transformers>=4.51
+peft>=0.12
+datasets>=2.19
+accelerate>=0.30
+openai>=1.30   # only for score.py (judge via OpenAI-compatible endpoint)
